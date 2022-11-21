@@ -1,0 +1,15 @@
+# Hello-HTML2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Web</title>
+</head>
+<body>
+<print><center><font color="fa0fa0" size="20" face="georgia">Hello World</font><center></print>  
+<img src=hugo.jpg width=250 height=250>
+<print><center><font color="black" size="15" face="Times New Roman"> Hugo Tabla Prieto</font></center></print> 
+</body>
+</html>
