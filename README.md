@@ -15,3 +15,4 @@ Una vez copiado, entramos en ubuntu y abriremos un terminal donde introduciremos
 Abriremos el archivo "index.html" una vez descargado con Visual Studio Code y lo modificamos añadiendo "Hugo Tabla.
 ### Cuarto paso:
 Abrimos el archivo modificado observando que aparece nuestro nombre.
+ 
