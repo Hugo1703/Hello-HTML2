@@ -1,6 +1,6 @@
 # Hello-HTML2
 Este projecto se basaen crear con el software Github un proyecto, en el cual tendremos que hacer que en nuestra pagina web aparezca un titulo, una foto nuestra y nuestro nombre. 
-Tambien tendremos que enviarle uan Issue a nuestro compañero y este a nosotros para que tengamos que modificar el codigo del proyecto.
+Tambien tendremos que enviarle una Issue a nuestro compañero y este a nosotros para que tengamos que modificar el codigo del proyecto.
 
 ![image](Pagina.PNG)
 
