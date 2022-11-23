@@ -1,9 +1,13 @@
 # Hello-HTML2
-Este projecto se basaen crear con el software Github un proyecto, en el cual tendremos que hacer que en nuestra pagina web aparezca un titulo, una foto nuestra y nuestro nombre. 
-<print><center><font color="fa0fa0" size="20" face="georgia">Tambien tendremos que enviarle una Issue a nuestro compañero y este a nosotros para que tengamos que modificar el codigo del proyecto.</font><center></print>  
+
+## Descripcion del proyecto
+
+Este projecto se basaen crear con el software Github un proyecto, en el cual tendremos que hacer que en nuestra pagina web aparezca un titulo, una foto nuestra y nuestro nombre. Tambien tendremos que enviarle una Issue a nuestro compañero y este a nosotros para que tengamos que modificar el codigo del proyecto.
 
 ![image](Pagina.PNG)
 
-Para poder descargar el codigo tenemos que copiar el enlace desde donde pone code y seguidamente entrar en la terminal y usar el comando git clone para hacer una clonación del codigo.
-Si queremos modificarlo podriamos usar algun programa que se encarga de eso como por ejemplo Visual Studio Code aunque tambien lo podriamos cambiar directamente desde github.
-
+## Como descargar y modificar el codigo
+### Primer paso:
+Primeramente entramos al proyecto del compañero y vamos al apartado de “code”, una vez dentro clicamos en “code” y nos aparecerá su código y lo copiamos.
+### Segundo paso:
+Una vez copiado, entramos en ubuntu y abriremos un terminal donde introduciremos el comando “git clone (código del compañero)”.
